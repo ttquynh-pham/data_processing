@@ -1,2 +1,2 @@
 # data_processing
-python, pandas, ml
+Practice with python, pandas, machine learning.
